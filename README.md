@@ -1,33 +1,77 @@
-# Hi, I'm Kavy Chudasama 👋
+<div align="center">
 
-🚀 Builder | 💻 Learner | 🤖 AI Explorer  
+# ✨⚡ Hi, I'm Kavy Chudasama ⚡✨
 
----
-
-## ⚡ About Me
-- 🌐 Skills: HTML, CSS  
-- 💻 Currently learning: C  
-- 🐍 Planning: Python  
-- 🤖 Exploring AI tools to boost learning & productivity  
-- ⚙️ Focused on logic, consistency, and growth  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=AI+Explorer+🤖;Future+Developer+💻;Building+step+by+step+⚙️" />
 
 ---
 
-## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Current Focus
-- Learning programming fundamentals (C 💻)
-- Improving problem-solving skills ⚙️
-- Exploring AI-powered tools 🤖
-- Building strong foundations for future development 🐍
+## 🌌 About Me (Glass Mode)
+
+> 🧊 “Simple mindset. Strong growth. Clean logic.”
+
+- 🌐 HTML | 🎨 CSS  
+- 💻 Learning C (core programming)  
+- 🐍 Planning Python  
+- 🤖 Exploring AI tools (ChatGPT, Claude, Gemini)  
+- ⚙️ Focused on logic, consistency & real-world building  
 
 ---
 
-## 🔥 Motto
-> “Learn. Build. Improve. Repeat.”
+## ⚡ Current Focus
+
+- 💡 Strengthening programming fundamentals  
+- 🧠 Improving problem-solving skills  
+- 🤖 Learning AI-assisted development  
+- 🚀 Building future-ready mindset  
+
+---
+
+## 🛠️ Tech Stack (Neon Glow)
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-00FFF7?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-FF00FF?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00FF88?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌈 GitHub Stats (Glass Style)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavy-gil&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+
+</div>
+
+---
+
+## 💎 Mindset
+
+> ⚡ “Build quietly. Improve daily. Shine eventually.”
+
+---
+
+## 🌠 Vision
+
+- 🤖 AI + Coding = Future tools  
+- 💻 From basics → advanced developer journey  
+- 🚀 Creating useful, real-world tech solutions  
+
+---
+
+<div align="center">
+
+## ✨ Thanks for visiting ✨
+
+<img src="https://komarev.com/ghpvc/?username=kavy-gil&color=00FFF7&style=for-the-badge"/>
+
+</div>****
