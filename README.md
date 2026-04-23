@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kavy Chudasama 👋
 
-<!--
-**kavy-gli/kavy-gli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Builder | 💻 Learner | 🤖 AI Explorer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+- 🌐 Skills: HTML, CSS  
+- 💻 Currently learning: C  
+- 🐍 Planning: Python  
+- 🤖 Exploring AI tools to boost learning & productivity  
+- ⚙️ Focused on logic, consistency, and growth  
+
+---
+
+## 🛠 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🚀 Current Focus
+- Learning programming fundamentals (C 💻)
+- Improving problem-solving skills ⚙️
+- Exploring AI-powered tools 🤖
+- Building strong foundations for future development 🐍
+
+---
+
+## 🔥 Motto
+> “Learn. Build. Improve. Repeat.”
