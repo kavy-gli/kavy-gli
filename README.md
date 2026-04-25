@@ -1,9 +1,7 @@
 # 💫 About Me:
 Kavy Chudasama<br>💻 Aspiring developer skilled in HTML, CSS, and C programming<br>🧠 Focused on building strong logic and problem-solving skills<br>🤖 Exploring AI tools like ChatGPT, Claude, and Gemini for better learning<br>⚙️ Currently strengthening core programming fundamentals with C<br>🐍 Planning to learn Python and move toward advanced development
 
-
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kavy Chudasama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beenachudasama44@gmail.com) 
+ 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
